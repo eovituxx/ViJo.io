@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vijo Shop - Redirecionando...</title> 
+    <title>Vijo Shop - Redirecionando...</title>
     
     <!-- Meta Pixel Code -->
     <script>
