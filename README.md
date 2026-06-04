@@ -19,6 +19,15 @@
 
       gtag('config', 'AW-17997715261');
     </script>
+    <script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-17997715261/hBCoCKqWkLkcEL2u_YVD',
+      'value': 1.0,
+      'currency': 'BRL',
+      'transaction_id': ''
+      // 'new_customer': true /* calculate dynamically, populate with true/false */,
+  });
+</script>
     <noscript><img height="1" width="1" style="display:none"
     src="https://www.facebook.com/tr?id=918341774492381&ev=PageView&noscript=1"
     /></noscript>
