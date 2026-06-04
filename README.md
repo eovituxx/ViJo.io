@@ -4,6 +4,9 @@ colar o codigo meta <!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vijo Shop - Redirecionando...</title> <!-- Meta Pixel Code -->
+    <script>
+  fbq('track', 'ViewContent');
+</script>
 <script>
 !function(f,b,e,v,n,t,s)
 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
